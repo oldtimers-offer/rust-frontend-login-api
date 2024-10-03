@@ -1,0 +1,5 @@
+- docker-compose ps
+- docker inspect "name"
+- copy of "IP Address"
+- docker-compose exec app bash
+- ROCKET_ADDRESS="IP Address" cargo run
