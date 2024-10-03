@@ -1,5 +1,4 @@
 use crate::{api::user::api_login, components::input::Input};
-use gloo_console::log;
 use web_sys::HtmlInputElement;
 use yew::{platform::spawn_local, prelude::*};
 
